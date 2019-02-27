@@ -3,7 +3,7 @@ LightForge Token System
 
 LightForms.CC_LightForgeLightPaper.pdf https://www.dropbox.com/s/ew7n605gus7drdi/LightForms.CC_LightForgeLightPaper.pdf?dl=0
 1 new
-
+https://lightforms.cc/lightforge-in-game-currency-demonstration/
 Page 0
 Page 1
 Page 2
